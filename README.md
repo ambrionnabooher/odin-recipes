@@ -2,4 +2,4 @@
 
 Time to build a basic recipe website
 
-Going to be demonstrating my newfound HTML skills in this project
+This project will house recipes. It will first show my newfound HTML skill, then later on will make it pretty with  CSS.
